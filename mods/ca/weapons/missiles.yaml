@@ -61,7 +61,7 @@ Maverick:
 	Report: missile7.aud
 	Burst: 2
 	BurstDelays: 7
-	Projectile: Missile
+	Projectile: MissileCA
 		Speed: 256
 		Inaccuracy: 316
 		CruiseAltitude: 2c0
